@@ -1,0 +1,22 @@
+{
+  "name": "learning_javascript",
+  "version": "1.0.0",
+  "description": "I am learning JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/86919/Learning_JavaScript.git"
+  },
+  "author": "Anish Dubey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/86919/Learning_JavaScript/issues"
+  },
+  "homepage": "https://github.com/86919/Learning_JavaScript#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
